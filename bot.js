@@ -7,8 +7,8 @@ const schedule = require('node-schedule');
 const configFile = "config.json";
 const restClient = new Client();
 const ms = require("ms");
-var webhook = process.env.WEBHOOK;
-client.login(process.env.BOT_TOKEN);
+var webhook = process.env.https://discordapp.com/api/webhooks/796061371291795457/28AaHKtWcbzXMYSXfI3gWWpTBIThweWtf99fvl53dIdOKtRj81yIo9T0PULTLz7lDNtb;
+client.login(process.env.Nzk2MDUwODU1NzA1OTY4NzIw.X_SSIQ.KSVELBXdpoKTxixVBptrMxK-H8A);
 
 
 
